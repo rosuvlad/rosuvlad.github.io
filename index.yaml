@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  pages:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-08-05T14:22:35.654633123+01:00"
+    dependencies:
+    - name: pages-api
+      repository: https://rosuvlad.github.io
+      version: 1.x.x
+    - name: mysql
+      repository: https://rosuvlad.github.io
+      version: 1.x.x
+    description: A Helm chart for Pages Application
+    digest: 3905de79fb53523d8dd29994e457de3360b21553b19206cbf9f22b118713871c
+    name: pages
+    type: application
+    urls:
+    - pages-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-08-05T14:22:35.65085832+01:00"
